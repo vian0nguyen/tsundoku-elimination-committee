@@ -1,9 +1,9 @@
-# tsundoku-elimination-comittee
+# tsundoku ❎ elimination 🚯 comittee
 
-reading club notes and things!
+📚 reading club notes 📝 and things!
 
 ## [Schedule](Schedule.md)
 
-## To edit this repo
+## ✏️ To edit this repo 
 
 Please use [markdown language!](https://www.markdownguide.org/basic-syntax/#links)
