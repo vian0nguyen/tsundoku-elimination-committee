@@ -1,4 +1,4 @@
-# tsundoku ❎ elimination 🚯 comittee
+# tsundoku ❎ elimination 🚯 committee
 
 📚 reading club notes 📝 and things!
 
