@@ -2,7 +2,7 @@
 
 📚 reading club notes 📝 and things!
 
-## [Schedule](Schedule/README.md)
+## [Schedule](https://github.com/vian0nguyen/tsundoku-elimination-committee/tree/main/Schedule)
 
 contains: 
 * future and past meeting dates
