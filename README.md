@@ -1,7 +1,9 @@
-# tsundoku ❎ elimination 🚯 comittee
+# tsundoku ❎ elimination 🚯 committee
 
 📚 reading club notes 📝 and things!
 
+
+## [Notes](notes.md)
 ## [Schedule](Schedule.md)
 
 ## ✏️ To edit this repo 
