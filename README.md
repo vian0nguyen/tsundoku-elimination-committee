@@ -2,7 +2,7 @@
 
 📚 reading club notes 📝 and things!
 
-## [Schedule](Schedule.md)
+## [Schedule](Schedule/README.md)
 
 contains: 
 * future and past meeting dates
