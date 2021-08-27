@@ -3,7 +3,7 @@
 📚 reading club notes 📝 and things!
 
 
-## [Notes](notes.md)
+## [Notes](Notes.md)
 ## [Schedule](Schedule.md)
 
 ## ✏️ To edit this repo 
