@@ -2,9 +2,11 @@
 
 📚 reading club notes 📝 and things!
 
-
-## [Notes](Notes.md)
 ## [Schedule](Schedule.md)
+
+contains: 
+* future and past meeting dates
+* notes from past meetings
 
 ## ✏️ To edit this repo 
 
