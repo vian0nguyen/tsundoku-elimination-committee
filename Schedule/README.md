@@ -1,6 +1,7 @@
 # 📆 SCHEDULE 📆
 
 this schedule is in reverse chronological order. 
+Expand notes by navigating the files above or following the links attached to each date below!
 
 ## 08_30_2021 🥈
 
