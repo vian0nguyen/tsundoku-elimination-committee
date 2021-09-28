@@ -16,6 +16,10 @@ Expand notes by navigating the files above or following the links attached to ea
   
 </details>
   
+## 09_27_2021
+
+T's pod: [Radio Lab: In The Running](https://open.spotify.com/episode/29KlrnIzLwPQjOa78EVv6S?si=8aff7ae441e544a0)
+
 ## 09_13_2021 🌛
   
 Vian's Pod: [Outer Reach: Retention](https://open.spotify.com/episode/1IX4L4T8plNXQQC50RnpOX?si=3a385a5896034402) / [Everything is Alive: Alligator, Alligator](https://open.spotify.com/episode/09Nlofr26OB1NhTlCmYYuf?si=e2bafa77df414286&nd=1)
