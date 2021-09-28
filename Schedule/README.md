@@ -16,7 +16,7 @@ Expand notes by navigating the files above or following the links attached to ea
   
 </details>
   
-## 09_27_2021
+## [09_27_2021](09_27_2021.md)
 
 T's pod: [Radio Lab: In The Running](https://open.spotify.com/episode/29KlrnIzLwPQjOa78EVv6S?si=8aff7ae441e544a0)
 
